@@ -54,7 +54,7 @@ class Manager extends Member{
   System.out.println("The department is: "+department);
  }
 }
-class t2{
+class Emp_Details{
  public static void main(String[] args){
   Employee e = new Employee();
   Manager m=new Manager();

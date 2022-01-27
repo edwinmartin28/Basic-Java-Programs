@@ -33,7 +33,7 @@ class square extends shape{
         System.out.println("Square erased");
     }
 }
-class t3{
+class Example_for_polymorphism{
     public static void main(String[] args){
      circle c=new circle();
      c.draw();

@@ -18,7 +18,7 @@ class Hexagon extends Shape{
   System.out.println("The Number of Sides of hexagon is 6 ");
  }
 }
-class Abstract{
+class Sides_of_Shape_using_Abstract_Class{
  public static void main(String args[]){
   Triangle t = new Triangle();
   Rectangle r = new Rectangle();
