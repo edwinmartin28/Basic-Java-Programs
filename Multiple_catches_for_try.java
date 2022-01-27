@@ -1,6 +1,6 @@
 //JAVA program Illustrating Multiple catch clauses
 import java.util.*;
-public class t6{  
+public class Multiple_catches_for_try{  
     public static void main(String[] args){
         try{
             Scanner sc=new Scanner(System.in);
