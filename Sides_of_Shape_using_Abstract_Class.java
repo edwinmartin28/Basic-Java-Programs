@@ -1,3 +1,5 @@
+/* A java program to create a abstract class shape that contain an empty method named as number of sides and 3 classes triangle, rectangle and hexagon.Such that each class extends
+shape. Each class contains the method number of sides to show the number of sides*/
 abstract class Shape{
  abstract void numberofsides();
 }
