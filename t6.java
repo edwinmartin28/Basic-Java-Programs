@@ -1,4 +1,4 @@
-//a JAVA program Illustrating Multiple catch clauses
+//JAVA program Illustrating Multiple catch clauses
 import java.util.*;
 public class t6{  
     public static void main(String[] args){

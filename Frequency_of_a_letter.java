@@ -1,3 +1,4 @@
+//Java program to check the frequency of a character in a string
 import java.util.Scanner;
 public class Frequency_of_a_letter {
     public static void main(String args[]){

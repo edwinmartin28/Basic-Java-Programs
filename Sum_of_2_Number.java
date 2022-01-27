@@ -1,3 +1,4 @@
+//Java program to find the sum of two numbers.
 import java.util.Scanner;
 class Sum_of_2_Number{
  public static void main(String srgs[]){

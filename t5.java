@@ -1,4 +1,4 @@
-//	Write a JAVA program to implement Interface. 
+//JAVA program to implement Interface. 
 interface printable{  
     void print();  
 }  

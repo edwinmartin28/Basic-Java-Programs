@@ -1,3 +1,4 @@
+//Java program to check weather the input string is palindrome or not.
 import java.util.Scanner;
 class Palindrome_String{
  public static void main(String args[]){
