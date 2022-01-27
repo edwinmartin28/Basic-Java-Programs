@@ -1,6 +1,6 @@
 //Implement a calculator by handling all exceptions.
 import java.util.Scanner;
-class t4{
+class Simple_Calculator{
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         String s;
