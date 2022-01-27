@@ -7,7 +7,7 @@ class show implements printable{
         System.out.println("Hello World!!");
     }
 }  
-class t5{
+class Example_to_interface{
   public static void main(String args[]){  
     show obj = new show();  
     obj.print();  
